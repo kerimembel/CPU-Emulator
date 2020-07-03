@@ -1,0 +1,11 @@
+bu kodların çalışması için önce terminalden; 
+
+javac *.java 
+
+komutu ile java dosyalarının compile edilmesi gerekiyor.
+
+Ardından çalıştırmak için;
+
+java Main "dosya_adı" 
+
+yazarak çalıştırılabilir.
